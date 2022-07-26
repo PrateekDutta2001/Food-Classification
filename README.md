@@ -14,5 +14,6 @@ https://paperswithcode.com/dataset/food-101
 https://www.tensorflow.org/datasets/catalog/food101
 
 Number of instances in each class:
+
 Pizza: 983
 Not Pizza: 983
