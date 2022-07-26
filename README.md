@@ -12,6 +12,7 @@ https://data.vision.ee.ethz.ch/cvl/datasets_extra/food-101/
 https://www.kaggle.com/datasets/dansbecker/food-101
 https://paperswithcode.com/dataset/food-101
 https://www.tensorflow.org/datasets/catalog/food101
+
 Number of instances in each class:
 Pizza: 983
 Not Pizza: 983
